@@ -1,0 +1,13 @@
+Statistical Analysis Results
+===========================
+
+Number of samples: 15
+T-statistic: -1.7090
+P-value: 0.1095
+Effect size (Cohen's d): 0.6105
+Mean difference: 0.2216 Hz
+Standard deviation of difference: 0.4852 Hz
+Average percent change: 3.49%
+
+Interpretation:
+There is no statistically significant difference between before and after stimulation.

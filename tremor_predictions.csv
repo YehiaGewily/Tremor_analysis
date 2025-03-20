@@ -1,0 +1,16 @@
+day,before_file,after_file,pre_band_power,post_band_power,band_power_reduction_percent
+16,Predicted_Day16_Before.csv,Predicted_Day16_After.csv,0.36946210165391397,0.07678196759871825,79.21790426292219
+17,Predicted_Day17_Before.csv,Predicted_Day17_After.csv,0.36902946390392943,0.0,99.99999997290189
+18,Predicted_Day18_Before.csv,Predicted_Day18_After.csv,0.3687803199606373,0.0,99.99999997288359
+19,Predicted_Day19_Before.csv,Predicted_Day19_After.csv,0.3686368449530094,0.0,99.99999997287303
+20,Predicted_Day20_Before.csv,Predicted_Day20_After.csv,0.3685542217210664,0.0,99.99999997286695
+21,Predicted_Day21_Before.csv,Predicted_Day21_After.csv,0.3685066413196461,0.0,99.99999997286344
+22,Predicted_Day22_Before.csv,Predicted_Day22_After.csv,0.3684792411012563,0.0,99.99999997286143
+23,Predicted_Day23_Before.csv,Predicted_Day23_After.csv,0.3684634620841526,0.0,99.99999997286027
+24,Predicted_Day24_Before.csv,Predicted_Day24_After.csv,0.36845437539085635,0.0,99.9999999728596
+25,Predicted_Day25_Before.csv,Predicted_Day25_After.csv,0.3684491426190989,0.0,99.99999997285921
+26,Predicted_Day26_Before.csv,Predicted_Day26_After.csv,0.3684461292126404,0.0,99.99999997285899
+27,Predicted_Day27_Before.csv,Predicted_Day27_After.csv,0.368444393876397,0.0,99.99999997285886
+28,Predicted_Day28_Before.csv,Predicted_Day28_After.csv,0.3684433945449364,0.0,99.99999997285879
+29,Predicted_Day29_Before.csv,Predicted_Day29_After.csv,0.36844281905798276,0.0,99.99999997285875
+30,Predicted_Day30_Before.csv,Predicted_Day30_After.csv,0.3684424876511905,0.0,99.99999997285872
